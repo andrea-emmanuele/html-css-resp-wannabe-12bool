@@ -1,0 +1,36 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.content {
+    padding: 0 20px 20px 20px;
+}
+
+#lezioni, #steps, #why {
+    text-align: center;
+}
+
+#lezioni, #why {
+    background: #e8eab3;
+}
+
+#why .circle {
+    background: #2776dd;
+    padding: 30px;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+#why img {
+    height: 100px;
+}
+
+h1 {
+    margin: 15px 0;
+}
+
+img {
+    height: 150px;
+}
