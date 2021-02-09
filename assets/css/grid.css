@@ -115,7 +115,7 @@ div[class*="col-"] {
 
 /* tablet */
 
-@media all and (min-width: 768px) {
+@media all and (min-width: 768px) and (max-width: 991px) {
 
     .col-md-1 {
         width: calc(100% / 12);
@@ -314,5 +314,3 @@ div[class*="col-"] {
         margin-left: 100%;
     }
 }
-
-
